@@ -1,6 +1,10 @@
 proba branches
 123
 moier3nudtc76t4bjhd
+<<<<<<< HEAD
 mmmmmmmmmmmmmmmmmmmmm
 bcyebf;
 ps,ihdfuef
+=======
+///////
+>>>>>>> branch3
